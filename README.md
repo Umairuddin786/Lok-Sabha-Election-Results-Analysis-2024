@@ -1,4 +1,4 @@
-# #Lok Sabha Election Results Analysis 2024
+#Lok Sabha Election Results Analysis 2024
 
 ## Overview
 
